@@ -83,8 +83,13 @@ public class Main {
 				p.getPosts();
 				
 			}
+      else if (input != "view" || input != "break" || input != "update"){
+        System.out.println("invalid input");
+
+      }
 			else {
 				break;
+        
 			}
 		}
 	System.out.println("");
