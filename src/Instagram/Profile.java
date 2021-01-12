@@ -1,7 +1,9 @@
-//instagram posts, likes, comments
+package Instagram;
+import Instagram.*;
 import java.util.Scanner;
 import java.util.ArrayList;
 
+//Instagram posts, likes, comments
 class Profile {
 	private String handle,bio;
 		

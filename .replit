@@ -1,2 +1,2 @@
 language = "java10"
-run = "javac -d bin src/Main.java; javac -d bin -sourcepath src -cp bin src/Main.java; java -cp bin Main"
+run = "javac -d bin src/Instagram/*.java; java -classpath bin Instagram.Main"

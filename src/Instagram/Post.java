@@ -1,3 +1,5 @@
+package Instagram;
+import Instagram.*;
 import java.util.Scanner;
 import java.util.ArrayList;
 
